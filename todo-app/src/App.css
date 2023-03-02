@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  height: 700px;
+  width: 500px;
+  margin-left: 400px;
+  /* overflow: hidden; */
+}
+h1 {
+  padding: 1rem;
+}
+.input {
+  border: none;
+  border-bottom: 1px solid black;
+  font-size: 18px;
+  padding: 0.4rem;
+  width: 250px;
+}
+.btn {
+  padding: 0.3rem;
+  margin-left: 10px;
+  border-color: rgb(121, 119, 119);
+  border-radius: 5px;
+  width: 90px;
+}
+.btn:hover {
+  background-color: rgb(16, 155, 16);
+  color: wheat;
+}
+.event {
+  text-align: center;
+}
+.delete-icon {
+  padding: 5px;
+  width: 100px;
+  color: rgb(250, 2, 2);
+  margin-left: 40px;
+}
+.list {
+  padding: 7px;
+  width: 400px;
+  margin: 10px;
+  margin-left: 50px;
+  background-color: rgb(241, 239, 236);
+  border-radius: 10px;
+  font-size: 20px;
+}
